@@ -133,7 +133,7 @@ Bundle 'tpope/vim-repeat'
 Bundle 'tomasr/molokai'
 
 " Show indent line
-Bundle 'Yggdroot/indentLine'
+" Bundle 'Yggdroot/indentLine'
 
 " QML highlight
 Bundle 'peterhoeg/vim-qml'
@@ -433,8 +433,8 @@ set t_vb=
 set foldcolumn=1
 
 " Highlight current line
-set cursorline
-set cursorcolumn
+" set cursorline
+" set cursorcolumn
 
 
 " Enable syntax highlighting
